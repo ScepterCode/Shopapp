@@ -23,7 +23,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-n40zo^24zw3uf8hu_c+m^q21&t-xm!ki$4peb^0^j*&e7=7u@m'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = [
     'shopapp-1-bmqd.onrender.com',
